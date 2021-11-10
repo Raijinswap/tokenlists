@@ -35,7 +35,7 @@
             "symbol": "ETHM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/ETHM.svg"
-        }
+        },
         {
             "address": "0xc8Fa227b06a297Ae8e937328531252Fe87e2f571",
             "chainId": 1001,
@@ -43,7 +43,7 @@
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDC.svg"
-        }
+        },
         {
             "address": "0xd6D8946D8773D77Ed5936588615B46255E66E039",
             "chainId": 1001,
@@ -51,7 +51,7 @@
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDT.svg"
-        }
+        },
         {
             "address": "0xF4aE42F4934540f4aCFcF264D2F1C02B6eF23abC",
             "chainId": 1001,
@@ -59,7 +59,7 @@
             "symbol": "WBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/WBTC.svg"
-        }
+        },
         {
             "address": "0xC376Fd15552fF868291873F8c379529B4848fb68",
             "chainId": 1001,
