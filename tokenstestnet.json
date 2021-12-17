@@ -1,0 +1,294 @@
+{
+    "name": "Raijin Swap Menu -TESTNET",
+    "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/Eurus.svg",
+    "keywords": ["tokens","Raijin Swap"],
+    "timestamp": "2021-11-03T00:00:00+00:00",
+    "tokens": [
+        {
+            "address": "0x1B729F7980C7ed28fdf646a68763fcDf0FE08D27",
+            "chainId": 1984,
+            "name": "Wrapped EUN",
+            "symbol": "WEUN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/WEUN.svg"
+        },
+        {
+            "address": "0x8a4e0e43f9e170cb7c1965ebaa84808a6489adc5",
+            "chainId": 1984,
+            "name": "Ether",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/ETH.svg"
+        },
+        {
+            "address": "0xa03d44be3ead0d0c91fc472913eae0d4fd503fa2",
+            "chainId": 1984,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDC.svg"
+        },
+        {
+            "address": "0x10478bb1e3a9011bfdc2645bf85110f9d17fa8dc",
+            "chainId": 1984,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDT.svg"
+        },
+        {
+            "address": "0x413b31952f9e737b7f70e02f4d59625b55a48d10",
+            "chainId": 1984,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/WBTC.svg"
+        },
+        {
+            "address": "0xc9bd38c1fcbca05d8095a8374a98fe90aa74a367",
+            "chainId": 1984,
+            "name": "Reserve Rights",
+            "symbol": "RSR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/RSR.svg"
+        },
+        {
+            "address": "0xdcf90b79d55d6f12ab268993b7b83e6809ffda04",
+            "chainId": 1984,
+            "name": "Chainlink",
+            "symbol": "LINK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/WBTC.svg"
+        },
+        {
+            "address": "0x6f119f3d24106586f36a97804b779c9f158e4894",
+            "chainId": 1984,
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/UNI.svg"
+        },
+        {
+            "address": "0x3969203bca487d35b6af11a67cf496c36a7bcfb3",
+            "chainId": 1984,
+            "name": "Binance Coin",
+            "symbol": "BNB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/BNB.svg"
+        },
+        {
+            "address": "0xd7f2612aa8946020d588979cdf7dea7462d8f27b",
+            "chainId": 1984,
+            "name": "Binance USD",
+            "symbol": "BUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/BUSD.svg"
+        },
+        {
+            "address": "0xba061d65cd9b30f263af974a51099a649fd620fd",
+            "chainId": 1984,
+            "name": "Yearn.finance",
+            "symbol": "YFI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/YFI.svg"
+        },
+        {
+            "address": "0x413b31952f9e737b7f70e02f4d59625b55a48d10",
+            "chainId": 1984,
+            "name": "MakerDAO",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/DAI.svg"
+        },
+        {
+            "address": "0x629f155d183bd09e7de11e48eefe7ff13ebdd280",
+            "chainId": 1984,
+            "name": "OMG Network",
+            "symbol": "OMG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/OMG.svg"
+        },
+        {
+            "address": "0x98f7c71ac49bf96b4ddeebb2391c0d6192b7b5c4",
+            "chainId": 1984,
+            "name": "Vechain",
+            "symbol": "VEN",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/VEN.svg"
+        },
+        {
+            "address": "0x4723c5fa65579c5271db01490eaf1faa7091047b",
+            "chainId": 1984,
+            "name": "AAVE",
+            "symbol": "AAVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/AAVE.svg"
+        },
+        {
+            "address": "0xcaa6c58441d0f31372d0c4dd9c6e343ba882caeb",
+            "chainId": 1984,
+            "name": "Huobi Token",
+            "symbol": "HT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/HT.svg"
+        },
+        {
+            "address": "0x26ea510e60f7f7e49613cdee8781da66e91d1ad6",
+            "chainId": 1984,
+            "name": "SushiSwap",
+            "symbol": "SUSHI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/SUSHI.svg"
+        },
+        {
+            "address": "0x6cb82e309e204d0fa826963743350aaed0f1e36b",
+            "chainId": 1984,
+            "name": "TrueUSD",
+            "symbol": "TUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/TUSD.svg"
+        },
+        {
+            "address": "0x28ca866e15fe483743d786cd044c86949f067819",
+            "chainId": 1984,
+            "name": "Compound Dai",
+            "symbol": "cDAI",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/cDAI.svg"
+        },
+        {
+            "address": "0xbf96bd81d93af7e28ce6f654e150192789749459",
+            "chainId": 1984,
+            "name": "Swipe",
+            "symbol": "SXP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/SXP.svg"
+        },
+        {
+            "address": "0xb5f8bc4969e107a9a0a1873db2b6b0039aebdeac",
+            "chainId": 1984,
+            "name": "Basic Attention Token",
+            "symbol": "BAT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/BAT.svg"
+        },
+        {
+            "address": "0xb5f8bc4969e107a9a0a1873db2b6b0039aebdeac",
+            "chainId": 1984,
+            "name": "USDK",
+            "symbol": "USDK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDK.png"
+        },
+
+        {
+            "address": "0x2c3a7b4077b9b2a20b5c8f21c27f397aa2339a22",
+            "chainId": 1984,
+            "name": "Zilliqa",
+            "symbol": "ZIL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/ZIL.svg"
+        },
+        {
+            "address": "0x4a3eab424dabf855fc9f9fe4469ce2295d1ef043",
+            "chainId": 1984,
+            "name": "Synthetix Network Token",
+            "symbol": "SNX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/SNX.svg"
+        },
+        {
+            "address": "0x054de95ba45c9d8202f918cedb84b2e692c5bb8a",
+            "chainId": 1984,
+            "name": "OKB",
+            "symbol": "OKB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/OKB.svg"
+        },
+        {
+            "address": "0x11b7bd5e724955c14f041638d4b3305ca4645a88",
+            "chainId": 1984,
+            "name": "Band Protocol",
+            "symbol": "BAND",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/BAND.svg"
+        },
+        {
+            "address": "0xf23e66841615eef87e38c6bb0d67dd8e9742ee12",
+            "chainId": 1984,
+            "name": "Huobi and USD",
+            "symbol": "HUSD",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/HUSD.svg"
+        },
+        {
+            "address": "0x79e2e78550a6ac7b7ad8884de4c2eb89690cc13f",
+            "chainId": 1984,
+            "name": "MakerDAO",
+            "symbol": "MKR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/MKR.svg"
+        },
+        {
+            "address": "0x6e94ad56541b3cebfba488a4d6b1f89a5e9c8122",
+            "chainId": 1984,
+            "name": "0x protocol",
+            "symbol": "ZRX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/ZRX.svg"
+        },
+        {
+            "address": "0xfd6e7eb2a2fac9ec0c282734b763cdf158c94a61",
+            "chainId": 1984,
+            "name": "Pax Dollar",
+            "symbol": "PAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/PAX.svg"
+        },
+        {
+            "address": "0x97b46b9149a2339b05f1588e03250b89c184977b",
+            "chainId": 1984,
+            "name": "Compound Governance Token",
+            "symbol": "COMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/COMP.svg"
+        },
+        {
+            "address": "0x884b21c3f6a95b1e4a4d6b1020f6940b67849a9a",
+            "chainId": 1984,
+            "name": "Balancer",
+            "symbol": "BAL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/BAL.svg"
+        },
+        {
+            "address": "0x4a3eab424dabf855fc9f9fe4469ce2295d1ef043",
+            "chainId": 1984,
+            "name": "USDM Token",
+            "symbol": "USDM",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDM.png"
+        },
+        {
+            "address": "0x939fdd4423396a9ee083519ccf8a25142f3e97dc",
+            "chainId": 1984,
+            "name": "BTCM Token",
+            "symbol": "BTCM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/BTCM.png"
+        },
+        {
+            "address": "0x2e3266b417bac1defd9cee72e71791201eb197b9",
+            "chainId": 1984,
+            "name": "ETHM Token",
+            "symbol": "ETHM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/ETHM.svg"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
