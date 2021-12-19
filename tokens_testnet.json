@@ -1,0 +1,77 @@
+{
+    "name": "Raijin Swap Menu",
+    "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/WEUN.svg",
+    "keywords": ["tokens","Raijin Swap"],
+    "timestamp": "2021-11-09T00:00:00+00:00",
+    "tokens": [
+        {
+            "address": "0x1B729F7980C7ed28fdf646a68763fcDf0FE08D27",
+            "chainId": 1984,
+            "name": "Wrapped EUN",
+            "symbol": "WEUN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/WEUN.svg"
+        },
+        {
+            "address": "0x4a3eab424dabf855fc9f9fe4469ce2295d1ef043",
+            "chainId": 1984,
+            "name": "USD Mapped Token",
+            "symbol": "USDM",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDM.svg"
+        },
+        {
+            "address": "0x939fdd4423396a9ee083519ccf8a25142f3e97dc",
+            "chainId": 1984,
+            "name": "Bitcoin Mapped Token",
+            "symbol": "BTCM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/BTCM.svg"
+        },
+        {
+            "address": "0x2e3266b417bac1defd9cee72e71791201eb197b9",
+            "chainId": 1984,
+            "name": "Ethereum Mapped Token",
+            "symbol": "ETHM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/ETHM.svg"
+        },
+        {
+            "address": "0xa03d44be3ead0d0c91fc472913eae0d4fd503fa2",
+            "chainId": 1984,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDC.svg"
+        },
+        {
+            "address": "0x10478bb1e3a9011bfdc2645bf85110f9d17fa8dc",
+            "chainId": 1984,
+            "name": "Tether",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDT.svg"
+        },
+        {
+            "address": "0x413b31952f9e737b7f70e02f4d59625b55a48d10",
+            "chainId": 1984,
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/WBTC.svg"
+        },
+        {
+            "address": "0x8a4e0e43f9e170cb7c1965ebaa84808a6489adc5",
+            "chainId": 1984,
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/ETH.svg"
+        }
+    ],
+    "version": {
+        "major": 2,
+        "minor": 0,
+        "patch": 0
+    }
+}
