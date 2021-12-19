@@ -1,5 +1,5 @@
 {
-    "name": "Raijin Swap Menu -TESTNET",
+    "name": "Raijin Swap Menu-TESTNET",
     "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/Eurus.svg",
     "keywords": ["tokens","Raijin Swap"],
     "timestamp": "2021-11-03T00:00:00+00:00",
@@ -180,7 +180,6 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDK.png"
         },
-
         {
             "address": "0x2c3a7b4077b9b2a20b5c8f21c27f397aa2339a22",
             "chainId": 1984,
@@ -267,7 +266,7 @@
             "name": "USDM Token",
             "symbol": "USDM",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDM.png"
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDM.svg"
         },
         {
             "address": "0x939fdd4423396a9ee083519ccf8a25142f3e97dc",
@@ -287,7 +286,7 @@
         }
     ],
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     }
