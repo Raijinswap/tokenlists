@@ -66,7 +66,7 @@
             "name": "DAI",
             "symbol": "DAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/WBTC.svg"
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/DAI.svg"
         },
         {
             "address": "0x8a4e0e43f9e170cb7c1965ebaa84808a6489adc5",
