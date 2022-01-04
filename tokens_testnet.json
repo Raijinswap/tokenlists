@@ -61,6 +61,14 @@
             "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/WBTC.svg"
         },
         {
+            "address": "0xf9bc063b419d3ac45e96d52bd1b948b8bbd480f5",
+            "chainId": 1984,
+            "name": "DAI",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/WBTC.svg"
+        },
+        {
             "address": "0x8a4e0e43f9e170cb7c1965ebaa84808a6489adc5",
             "chainId": 1984,
             "name": "Ethereum",
@@ -70,7 +78,7 @@
         }
     ],
     "version": {
-        "major": 2,
+        "major": 3,
         "minor": 0,
         "patch": 0
     }
