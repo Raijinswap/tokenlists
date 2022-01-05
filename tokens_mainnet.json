@@ -37,7 +37,7 @@
             "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/ETHM.svg"
         },
         {
-            "address": "0xc8Fa227b06a297Ae8e937328531252Fe87e2f571",
+            "address": "0x67dacFD99D710ADFc371E2eec193DEDd79802f4C",
             "chainId": 1001,
             "name": "USD Coin",
             "symbol": "USDC",
@@ -45,7 +45,7 @@
             "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDC.svg"
         },
         {
-            "address": "0xd6D8946D8773D77Ed5936588615B46255E66E039",
+            "address": "0xF66ac37cA1DDfbC429c1E03b94aFa413C2294a1f",
             "chainId": 1001,
             "name": "Tether",
             "symbol": "USDT",
@@ -53,7 +53,15 @@
             "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/USDT.svg"
         },
         {
-            "address": "0xF4aE42F4934540f4aCFcF264D2F1C02B6eF23abC",
+            "address": "0xD1C89F6291B9C137679c553f6F6094bd9DD5a706",
+            "chainId": 1001,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/DAI.svg"
+        },
+        {
+            "address": "0xA19D95F31A11B9247E05D97979D3f998d94B8b44",
             "chainId": 1001,
             "name": "Wrapped Bitcoin",
             "symbol": "WBTC",
@@ -61,7 +69,7 @@
             "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/WBTC.svg"
         },
         {
-            "address": "0xC376Fd15552fF868291873F8c379529B4848fb68",
+            "address": "0xB5306bFcdDdA847a9b7AdCa51762b78C7E27Df05",
             "chainId": 1001,
             "name": "Ethereum",
             "symbol": "ETH",
@@ -70,7 +78,7 @@
         }
     ],
     "version": {
-        "major": 2,
+        "major": 3,
         "minor": 0,
         "patch": 0
     }
