@@ -61,6 +61,14 @@
             "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/DAI.svg"
         },
         {
+            "address": "0x458b661aa4a7D5690eAea99A30f3665675fabf99",
+            "chainId": 1008,
+            "name": "MappedSwap Token",
+            "symbol": "MST",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Raijinswap/tokenlists/main/images/MST.svg"
+        },
+        {
             "address": "0xA19D95F31A11B9247E05D97979D3f998d94B8b44",
             "chainId": 1008,
             "name": "Wrapped Bitcoin",
@@ -78,7 +86,7 @@
         }
     ],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     }
